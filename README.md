@@ -1,5 +1,7 @@
 # MailGenius
 
+https://ruslansedov.github.io/MailGenius/index.html
+
 ![ava](https://github.com/RuslanSedov/MailGenius/blob/main/img/readme.PNG)
 
 [![HTML5](https://img.shields.io/badge/-HTML5-272727?style=for-the-badge&logo=HTML5)](https://developer.mozilla.org/ru/docs/Web/Guide/HTML/HTML5)
